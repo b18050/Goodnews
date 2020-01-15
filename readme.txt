@@ -8,11 +8,3 @@ Through this web-app , you will get to choose from many people out there looking
 Developers:
 Chandan Prakash
 
-Google Maps Geolocator
-AIzaSyDJftbj8uRX0LM4HQODbRE1ZAOYh0Qe-x8
-
-Google API OAutho
-AIzaSyC8FxLS4IGjo5cJDh4ddbSuS0ZGi-bJAL8
-
-Facebook API OAutho
-2471412906507718
