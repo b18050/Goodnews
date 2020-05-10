@@ -1,7 +1,7 @@
 {
 	"name": "goodnews",
 	"version": "1.0.0",
-	"description": "A Tinder-like progressive web application for pairing local adoptable orphans with parents ",
+	"description": "During the lockdown, A Tinder-like progressive web application for pairing local adoptable orphans with parents ",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error:no test specified\" && exit 1"
